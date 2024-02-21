@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Schleifen_Stimmungsbarometer/1.0.0": {
+        "runtime": {
+          "Schleifen_Stimmungsbarometer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Schleifen_Stimmungsbarometer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

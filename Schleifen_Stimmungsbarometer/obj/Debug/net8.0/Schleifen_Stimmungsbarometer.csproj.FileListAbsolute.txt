@@ -1,0 +1,14 @@
+P:\Demo_Solution\Schleifen_Stimmungsbarometer\bin\Debug\net8.0\Schleifen_Stimmungsbarometer.exe
+P:\Demo_Solution\Schleifen_Stimmungsbarometer\bin\Debug\net8.0\Schleifen_Stimmungsbarometer.deps.json
+P:\Demo_Solution\Schleifen_Stimmungsbarometer\bin\Debug\net8.0\Schleifen_Stimmungsbarometer.runtimeconfig.json
+P:\Demo_Solution\Schleifen_Stimmungsbarometer\bin\Debug\net8.0\Schleifen_Stimmungsbarometer.dll
+P:\Demo_Solution\Schleifen_Stimmungsbarometer\bin\Debug\net8.0\Schleifen_Stimmungsbarometer.pdb
+P:\Demo_Solution\Schleifen_Stimmungsbarometer\obj\Debug\net8.0\Schleifen_Stimmungsbarometer.GeneratedMSBuildEditorConfig.editorconfig
+P:\Demo_Solution\Schleifen_Stimmungsbarometer\obj\Debug\net8.0\Schleifen_Stimmungsbarometer.AssemblyInfoInputs.cache
+P:\Demo_Solution\Schleifen_Stimmungsbarometer\obj\Debug\net8.0\Schleifen_Stimmungsbarometer.AssemblyInfo.cs
+P:\Demo_Solution\Schleifen_Stimmungsbarometer\obj\Debug\net8.0\Schleifen_Stimmungsbarometer.csproj.CoreCompileInputs.cache
+P:\Demo_Solution\Schleifen_Stimmungsbarometer\obj\Debug\net8.0\Schleifen_Stimmungsbarometer.dll
+P:\Demo_Solution\Schleifen_Stimmungsbarometer\obj\Debug\net8.0\refint\Schleifen_Stimmungsbarometer.dll
+P:\Demo_Solution\Schleifen_Stimmungsbarometer\obj\Debug\net8.0\Schleifen_Stimmungsbarometer.pdb
+P:\Demo_Solution\Schleifen_Stimmungsbarometer\obj\Debug\net8.0\Schleifen_Stimmungsbarometer.genruntimeconfig.cache
+P:\Demo_Solution\Schleifen_Stimmungsbarometer\obj\Debug\net8.0\ref\Schleifen_Stimmungsbarometer.dll
